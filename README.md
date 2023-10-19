@@ -1,2 +1,1 @@
-# cats-and-dogs
-git workshop UF
+# Information on Cats and Dogs
